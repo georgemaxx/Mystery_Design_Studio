@@ -40,7 +40,7 @@ Device::Device(QWidget *parent) :
     labelLayout->addWidget(lineEdit, Qt::AlignRight); // 放置textEdit
 
     // 读取xml文件
-    QFile xml_file("../conf_tool/devices/le0.xml");
+    QFile xml_file("../mystery_tool/devices/le0.xml");
     device_t dev;
     if (xml_file.open(QIODevice::ReadOnly))
     {
