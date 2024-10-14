@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ide>
+    <env>GCC+vscode</env>
+    <env>IAR</env>
+    <env>KEIL</env>
+    <env>GHS</env>
+    <env>GCC+eclipse</env>
+    <env>GHS+vscode</env>
+</ide>

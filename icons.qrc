@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/folder.ico</file>
+        <file>icons/asm.ico</file>
+        <file>icons/c.ico</file>
+        <file>icons/cpp.ico</file>
+        <file>icons/head.ico</file>
+        <file>icons/chuizi_48.png</file>
+        <file>icons/clock.png</file>
+        <file>icons/pins.png</file>
+        <file>icons/ide.png</file>
+        <file>icons/file.svg</file>
+        <file>icons/save.png</file>
+        <file>icons/dir.png</file>
+        <file>icons/app_icon.svg</file>
+    </qresource>
+</RCC>

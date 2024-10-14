@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<device>
+	<info vendor="YTMicro" name="YTM32B1LE05" core="Cortex-M0+" /> 
+	<memories>
+		<memory name="pflash" start="0x00000000" size="0x20000" />
+		<memory name="sram" start="0x20000000" size="0x4000" />
+	</memories>
+	<packages>
+		<package name="YTM32B1LE05H0MLHT" type="LQFP64" />
+		<package name="YTM32B1LE05H0MLFT" type="LQFP48" />
+		<package name="YTM32B1LE05H0MLET" type="LQFP32" />
+		<package name="YTM32B1LE05H0MFMR" type="QFN32" />
+	</packages>
+	<peripherals>
+		<ip part="communication" name="uart" instance="3" />
+		<ip part="communication" name="spi" instance="3" />
+		<ip part="communication" name="i2c" instance="2" />
+		<ip part="communication" name="flexcan" instance="1" />
+	</peripherals>
+</device>
